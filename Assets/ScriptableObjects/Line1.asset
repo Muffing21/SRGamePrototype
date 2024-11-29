@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74c3ce847ae5440d6b909d1fe412d4b2, type: 3}
+  m_Name: Line1
+  m_EditorClassIdentifier: 
+  speakerName: JobSeeker
+  dialogueText: I'm here to look for jobs
+  speakerAvatar: {fileID: 8100794466371099007, guid: bf33cffe206bb49b997e839fcd54ce23, type: 3}
